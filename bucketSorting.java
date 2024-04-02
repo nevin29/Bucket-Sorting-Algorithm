@@ -1,12 +1,3 @@
-// Name: <Nevin Gutta>
-
-// Class: CS 3305/Section#
-
-// Term: Spring 2024
-
-// Instructor: Umama Tasnim
-
-// Assignment: 4
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
